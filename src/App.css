@@ -1,0 +1,67 @@
+
+
+
+
+
+
+
+
+
+
+
+.css-pem5yo-MuiPaper-root-MuiAppBar-root{
+  box-shadow: none !important;
+}
+.dashboard-sidebar{
+  width: 251px !important;
+}
+
+
+/* Logo css start */
+.logoCard{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logotext{
+  font-family: 'Poppins';
+  font-size: 18px;
+  font-weight: 600;
+  color: white;
+  line-height: 27px;
+  margin-left: 10px;
+}
+/* // logo css end */
+
+
+/* list item css start */
+
+.listText{
+  font-family: 'Poppins';
+  font-size: 14px;
+  color: white;
+  line-height: 14px;
+  font-weight: 400;
+}
+/* for active btn */
+.active{
+  color:#9EE96E;
+  font-weight: 600;
+}
+
+/* loge out btn */
+.logout{
+  margin-top: 70px;
+margin-left: 20px;
+  display: flex;
+  align-items: center;
+  color:#F66B1D;
+  cursor: pointer;
+}
+.logoutText{
+  font-size: 14px ;
+  font-weight: 400;
+  line-height: 21px;
+  font-family: 'Poppins';
+  margin-left: 22px;
+}
